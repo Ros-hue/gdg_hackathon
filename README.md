@@ -244,7 +244,7 @@ This project was built for:
 Add your screenshots inside a `/screenshots` folder.
 
 ```md
-![Dashboard](./screenshots/dashboard.png)
+public/IMG_0201.JPG.jpeg
 ![Drone Monitor](./screenshots/drone-monitor.png)
 ```
 
