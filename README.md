@@ -112,6 +112,36 @@ src/
 git clone https://github.com/your-username/aeroharvest-ai.git
 ```
 
+---
+
+# 🗜️ Media Compression (Python)
+
+This repo includes a Python script to compress images and videos under `public/` and write results to `public_compressed/`.
+
+## Requirements
+- Images: `pip install pillow`
+- Videos: install **ffmpeg** and ensure `ffmpeg` is available in your terminal.
+
+## Run
+Compress everything:
+
+```bash
+python compress_media.py --input public --output public_compressed
+```
+
+Smaller images (more aggressive):
+
+```bash
+python compress_media.py --input public --output public_compressed --image-quality 45
+```
+
+Dry run (no files written):
+
+```bash
+python compress_media.py --input public --output public_compressed --dry-run
+```
+
+
 ## 2️⃣ Navigate into Project
 
 ```bash

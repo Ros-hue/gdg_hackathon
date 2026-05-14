@@ -1,0 +1,108 @@
+{
+  "hash": "d94bbbd2",
+  "configHash": "4af8cc4c",
+  "lockfileHash": "dc5915c7",
+  "browserHash": "5899693f",
+  "optimized": {
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "9669d3e4",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "11a44b9c",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "f1047b46",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "a988ccfd",
+      "needsInterop": false
+    },
+    "gsap/ScrollTrigger": {
+      "src": "../../node_modules/gsap/ScrollTrigger.js",
+      "file": "gsap_ScrollTrigger.js",
+      "fileHash": "78adc56b",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.mjs",
+      "file": "lucide-react.js",
+      "fileHash": "382c0f32",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "ded3b0f7",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "2457082d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "5f4e2323",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "c07f63ec",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "8aef6341",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-CYJPkc-J": {
+      "file": "chunk-CYJPkc-J.js",
+      "isDynamicEntry": false
+    },
+    "jsx-runtime-C0ZciRyD": {
+      "file": "jsx-runtime-C0ZciRyD.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-BjO_yoAX": {
+      "file": "react-dom-BjO_yoAX.js",
+      "isDynamicEntry": false
+    },
+    "react-three-fiber.esm-BWF7t8kM": {
+      "file": "react-three-fiber.esm-BWF7t8kM.js",
+      "isDynamicEntry": false
+    },
+    "scheduler-CWuCHEyl": {
+      "file": "scheduler-CWuCHEyl.js",
+      "isDynamicEntry": false
+    },
+    "three.module-DlR1PlJ8": {
+      "file": "three.module-DlR1PlJ8.js",
+      "isDynamicEntry": false
+    },
+    "vision_bundle-bsoH7_t-": {
+      "file": "vision_bundle-bsoH7_t-.js",
+      "isDynamicEntry": true
+    },
+    "with-selector-BevLVrfi": {
+      "file": "with-selector-BevLVrfi.js",
+      "isDynamicEntry": false
+    }
+  }
+}
