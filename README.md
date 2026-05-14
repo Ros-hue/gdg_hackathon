@@ -183,11 +183,14 @@ AeroHarvest AI contributes toward:
 # 👨‍💻 Team
 
 ### Team Name:
-**AeroHarvest AI**
+**code-py**
 
 ### Members:
-- Your Name
-- Team Member Name
+- Your Name : yuvraj yadav
+- Team Member Name:
+- susant dhakal
+- SAI HARSHINI GORRIPATI
+- Harshita Mamadapur 
 
 ---
 
@@ -214,12 +217,6 @@ Add your screenshots inside a `/screenshots` folder.
 ![Dashboard](./screenshots/dashboard.png)
 ![Drone Monitor](./screenshots/drone-monitor.png)
 ```
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
