@@ -1,174 +1,238 @@
-# 🌳 AI-Powered Autonomous Drone for Tree Maintenance & Smart Landscaping
+# AeroHarvest AI 🚁🌱  
+### *AI-powered autonomous drone system for early fruit rot detection & sustainable smart harvesting.*
 
-An AI-driven autonomous drone system designed for smart tree maintenance, branch detection, and automated landscaping for smart cities and urban infrastructure.
+![AeroHarvest Banner](https://img.shields.io/badge/AI-Drone%20System-green)  
+![React](https://img.shields.io/badge/Frontend-React-blue)  
+![Three.js](https://img.shields.io/badge/3D-Three.js-black)  
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
+
+# 📌 Overview
+
+**AeroHarvest AI** is a futuristic AgriTech solution that combines **Artificial Intelligence, Computer Vision, and Drone Technology** to detect fruits in their early stage of rotting and automatically collect them for sustainable reuse.
+
+The project focuses on reducing:
+- 🍎 Food wastage
+- 🌍 Environmental impact
+- 💸 Agricultural losses
+
+Using an intelligent drone monitoring system and AI analytics dashboard, AeroHarvest AI enables smarter farming and sustainable harvesting practices.
 
 ---
 
 # 🚀 Features
 
-✅ AI-based branch detection  
-✅ Autonomous drone navigation  
-✅ Smart docking station  
-✅ Real-time monitoring dashboard  
-✅ Tree health analysis  
-✅ Live GPS tracking  
-✅ Hazardous branch identification  
-✅ Simulation using Gazebo & ROS  
-✅ Interactive web dashboard  
+## 🧠 AI Fruit Rot Detection
+- Early-stage fruit spoilage detection
+- AI confidence scoring
+- Bounding box visualization
+- Real-time detection simulation
+
+## 🚁 Drone Monitoring System
+- Live drone telemetry
+- Battery monitoring
+- Altitude tracking
+- GPS simulation
+- Environmental monitoring
+
+## 📊 Analytics Dashboard
+- Fruit health analytics
+- Collection statistics
+- Detection trend graphs
+- Sustainability metrics
+
+## 🌍 Smart Farm Monitoring
+- Interactive farm map
+- Drone route visualization
+- Rot severity indicators
+- Real-time alerts
+
+## 🎨 Futuristic UI/UX
+- Fully animated interface
+- Glassmorphism design
+- Neon cyberpunk aesthetics
+- Responsive layout
+- 3D drone visualization
 
 ---
 
-# 🧠 Problem Statement
-
-Traditional tree maintenance is:
-- Dangerous
-- Time-consuming
-- Expensive
-- Inefficient in tall or risky areas
-
-This project automates tree monitoring and trimming using AI-powered drones.
-
----
-
-# ⚙️ Tech Stack
+# 🛠️ Tech Stack
 
 ## Frontend
 - React.js
+- Vite
 - Tailwind CSS
-- Leaflet Maps
 
-## Backend
-- Node.js
-- Express.js
+## Animations
+- Framer Motion
+- GSAP
 
-## AI/ML
-- Python
-- OpenCV
-- YOLO
-- PyTorch
+## 3D & Visualization
+- Three.js
+- React Three Fiber
 
-## Drone & Simulation
-- ROS
-- Gazebo
-- MAVLink
-- Pixhawk
+## Data Visualization
+- Recharts
 
-## Hardware
-- GPS Module
-- LiDAR
-- Camera Module
+## AI & Simulation
+- TensorFlow.js (Optional)
+- OpenCV Concepts
+- Mock Real-time Data
+
+## Deployment
+- Vercel / Netlify
 
 ---
 
-# 🏗️ System Architecture
+# 📂 Project Structure
 
-1. AI detects risky tree branches
-2. Drone receives coordinates
-3. Autonomous trimming operation begins
-4. Real-time data sent to dashboard
-5. Drone returns to smart docking station
+```bash
+src/
+ ├── components/
+ ├── pages/
+ ├── layouts/
+ ├── charts/
+ ├── animations/
+ ├── hooks/
+ ├── assets/
+ ├── data/
+ ├── utils/
+ ├── styles/
+ └── App.jsx
+```
+
+---
+
+# ⚙️ Installation Guide
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/aeroharvest-ai.git
+```
+
+## 2️⃣ Navigate into Project
+
+```bash
+cd aeroharvest-ai
+```
+
+## 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+## 4️⃣ Start Development Server
+
+```bash
+npm run dev
+```
+
+## 5️⃣ Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+# 🌐 Deployment
+
+This project can be deployed easily on:
+
+- Vercel
+- Netlify
+- Firebase Hosting
+
+---
+
+# 🎥 Demo Workflow
+
+1. Drone scans orchard area  
+2. AI detects early fruit rot  
+3. Detection data sent to dashboard  
+4. Drone collects affected fruits  
+5. Fruits redirected for sustainable reuse
+
+---
+
+# 📈 Future Scope
+
+- Real drone hardware integration
+- Live AI model training
+- IoT sensor integration
+- Autonomous navigation system
+- Smart agriculture ecosystem
+- Multi-drone coordination
+
+---
+
+# 🌱 Sustainability Impact
+
+AeroHarvest AI contributes toward:
+- Reducing food wastage
+- Improving crop management
+- Sustainable agriculture
+- Smart farming automation
+- Environmental conservation
+
+---
+
+# 👨‍💻 Team
+
+### Team Name:
+**AeroHarvest AI**
+
+### Members:
+- Your Name
+- Team Member Name
+
+---
+
+# 🏆 Hackathon Submission
+
+This project was built for:
+
+## 🚀 ZYNEX — Vision with Velocity Hackathon
+
+### Focus Areas:
+- AI/ML
+- Smart Agriculture
+- Drone Technology
+- Computer Vision
+- Sustainability
 
 ---
 
 # 📸 Screenshots
 
-## Dashboard UI
-![Dashboard](docs/screenshots/dashboard.png)
+Add your screenshots inside a `/screenshots` folder.
 
-## Drone Simulation
-![Simulation](docs/screenshots/simulation.png)
-
-## AI Detection
-![AI Detection](docs/screenshots/detection.png)
-
----
-
-# 📦 Installation Guide (Windows)
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/AI-Drone-Tree-Maintenance.git
-cd AI-Drone-Tree-Maintenance
+```md
+![Dashboard](./screenshots/dashboard.png)
+![Drone Monitor](./screenshots/drone-monitor.png)
 ```
 
 ---
 
-## 2️⃣ Install Frontend
+# 📄 License
 
-```bash
-cd client
-npm install
-npm run dev
-```
-
-Frontend runs at:
-```bash
-http://localhost:5173
-```
+This project is licensed under the MIT License.
 
 ---
 
-## 3️⃣ Install Backend
+# ⭐ Acknowledgements
 
-```bash
-cd server
-npm install
-npm start
-```
-
-Backend runs at:
-```bash
-http://localhost:5000
-```
+Inspired by:
+- Tesla UI Systems
+- DJI Drone Interfaces
+- Smart Agriculture Technologies
+- AI-powered Precision Farming
 
 ---
 
-## 4️⃣ Install AI Dependencies
+# 💡 Tagline
 
-```bash
-cd ai-model
-pip install -r requirements.txt
-```
-
-Run detection:
-```bash
-python detect.py
-```
-
----
-
-## 5️⃣ Run Drone Simulation
-
-Install:
-- ROS
-- Gazebo
-
-Launch simulation:
-```bash
-roslaunch drone_simulation.launch
-```
-
----
-
-# 🛰️ Future Scope
-
-- Fully autonomous real-world deployment
-- Smart city integration
-- AI-based disease detection
-- Weather adaptive navigation
-- Multi-drone coordination
-
----
-
-# 👨‍💻 Team code-py
-
-### Team Members
-- Susant Dhakal
-- Yuvraj Yadav
-- Harshita Mamadapur 
-- SAI HARSHINI GORRIPATI 
-
-College:
-Cambridge Institute of Technology
-
+### “Detect Early. Harvest Smarter. Reduce Waste.” 🌍🚁
