@@ -1,4 +1,4 @@
-# AeroHarvest AI 🚁🌱  
+# RotexAI Drone 🚁🌱  
 ### *AI-powered autonomous drone system for early fruit rot detection & sustainable smart harvesting.*
 
 ![AeroHarvest Banner](https://img.shields.io/badge/AI-Drone%20System-green)  
